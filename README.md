@@ -11,7 +11,8 @@ For my first project I wanted it to be fun while also still including multiple h
 Source material: <a href="https://static.onecms.io/wp-content/uploads/sites/6/2013/06/mad-men-letter.jpg">Mad Men Press Release//Peggy Olson</a>
 <br/>
 <br/>
-Have some feedback? I'd love to hear it!
+<br/>
+<h5>Have some feedback? I'd love to hear it!</h5>
 <br/>
 Vic
 <br/>
